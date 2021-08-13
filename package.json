@@ -15,7 +15,7 @@
     "babel-plugin-import-glob-array": "^0.2.0",
     "gray-matter": "^4.0.2",
     "mdx-prism": "^0.3.1",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "next-mdx-enhanced": "^3.0.0",
     "next-seo": "^4.7.2",
     "react": "^16.13.1",
